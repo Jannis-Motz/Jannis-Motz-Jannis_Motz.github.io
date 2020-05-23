@@ -76,7 +76,7 @@ main{
     padding-bottom: 50px;
 	padding-left: 80px;
 	font-size: 35px;
-	background: url(img/Colosseum.jpg) no-repeat center;
+	background: url(Colosseum.jpg) no-repeat center;
 	background-attachment: fixed;
 	background-size: cover;
 }
@@ -108,7 +108,7 @@ main{
 
 .Bath{
 	color: white;
-	background: url(img/Bath.jpg) no-repeat center;
+	background: url(Bath.jpg) no-repeat center;
 	background-attachment: fixed;
 	background-size: cover;
 	margin: 0;
@@ -124,7 +124,7 @@ main{
 }
 .Theater{
 	color: white;
-	background: url(img/Theater.jpg) no-repeat center;
+	background: url(Theater.jpg) no-repeat center;
 	background-attachment: fixed;
 	background-size: cover;
 	margin: 0;
@@ -140,7 +140,7 @@ main{
 }
 .Forest{
 	color: white;
-	background: url(img/Forest.jpg) no-repeat center;
+	background: url(Forest.jpg) no-repeat center;
 	background-attachment: fixed;
 	background-size: cover;
 	margin: 0;
@@ -156,7 +156,7 @@ main{
 }
 .Armee{
 	color: white;
-	background: url(img/Statue.jpg) no-repeat center;
+	background: url(Statue.jpg) no-repeat center;
 	background-attachment: fixed;
 	background-size: cover;
 	margin: 0;
@@ -171,7 +171,7 @@ main{
 }
 .Herman{
 	color: white;
-	background: url(img/Hermannsdenkmal_statue.jpg) no-repeat center;
+	background: url(Hermannsdenkmal_statue.jpg) no-repeat center;
 	background-attachment: fixed;
 	background-size: cover;
 	margin: 0;
@@ -186,7 +186,7 @@ main{
 }
 .Fazit{
 	color: white;
-	background: url(img/Arc.jpg) no-repeat center;
+	background: url(Arc.jpg) no-repeat center;
 	background-attachment: fixed;
 	background-size: cover;
 	margin: 0;
@@ -202,7 +202,7 @@ main{
 
 .Quellen{
 	color: white;
-	background: url(img/Tür2.jpg) no-repeat center;
+	background: url(Tür2.jpg) no-repeat center;
 	background-attachment: fixed;
 	background-size: cover;
 	margin: 0;
@@ -218,7 +218,7 @@ main{
 
 .Impressum{
 	color: white;
-	background: url(img/Coloss2.jpg) no-repeat center;
+	background: url(Coloss2.jpg) no-repeat center;
 	background-size: cover;
 	margin: 0;
 	padding: 0;
